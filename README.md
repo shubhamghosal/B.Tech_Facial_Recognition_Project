@@ -11,3 +11,5 @@ All you have to do is follow these steps:
 2. When you run `face_recognize.py`, look at your camera and sit in the position you did when you created your face's dataset(s).
 3. If you want to increase the chance of your face being recognized, create multiple sub datsets of your face.
 4. You can also increase the number of pictures per sub dataset by changing the number in the while loop in the `create_data.py` file. This may also increase the chance of your face being recognized.
+
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
